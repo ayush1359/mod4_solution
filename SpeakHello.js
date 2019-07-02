@@ -1,3 +1,4 @@
 function speak (names){
-  console.log( "Hello" + " " + names);
+  document.write( "Hello" + " " + names);
+  document.write('<br/>');
 }
